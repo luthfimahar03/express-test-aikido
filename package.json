@@ -1,0 +1,19 @@
+{
+  "name": "express-test-aikido",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aikidosec/firewall": "1.7.11",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
